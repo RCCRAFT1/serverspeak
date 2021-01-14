@@ -1,0 +1,11 @@
+# do not define a user in this file
+enable_serverspeak: True 
+  cache: True # do not disable caching. It can cause the AI to panic and may shutdown or reboot your system
+    iterations: 20
+      steps: 40000
+        unit: 1(unit = second)
+  cuda: True
+    iterations: 20000
+      steps: 10000
+        unit: 1(unit = second)
+
