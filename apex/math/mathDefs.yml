@@ -1,0 +1,9 @@
+#Let all traffic though
+platform: linux
+  distro: Ubuntu Server 20.04
+  main-path: /srv/daemon-data
+traffic: True
+  network: p-f
+  outside-network: True 
+  
+ 
