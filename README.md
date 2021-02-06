@@ -19,3 +19,6 @@ When the program is in benchmark mode, it will use at least 80% of your gpu.
 When the plugin is installed, run the main py files, and it should start the webserver/idle process. If new hardware is detected, it will run Benchmark mode.
 # How to run on linux
 COMING SOON
+
+Support our development here!
+I spend a lot of time making things like this, so donate if you can! (LINK COMING SOON)
