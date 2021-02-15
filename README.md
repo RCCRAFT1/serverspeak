@@ -11,8 +11,8 @@ A Windows/linux machine with Anaconda and Python 3.8 installed,
 At least 10gb of allocated cache storage,
 At least 16gb of RAM (32gb is recommended),
 
-#Updates
-
+# Updates
+2/14/2021: I've fixed a major bug with math enumerating character values. 
 
 
 # Libraries
