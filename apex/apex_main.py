@@ -58,6 +58,8 @@ def command(mc, cache, apex):
     for command(config):
         return mc.chat.client as mc.player(console)(f"How would you like to configure ServerSpeak?") global = False
     parse_user_data = True
+    if command in mc is None:
+        await mc.chat.global(send("Unable to find command"))
 
 run(apex)
 
