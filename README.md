@@ -17,7 +17,8 @@ At least 16gb of RAM (32gb is recommended),
 
 # Libraries
 ServerSpeak uses multiple libraries that you might have to install, such as
-pytorch and playground.docker (DOCKER CAN BE OBTAINED HERE:(COMING SOON))
+pytorch and playground.docker (DOCKER CAN BE OBTAINED HERE:(COMING SOON)) 
+NOTE THAT THIS PROGRAM USES mPALF. PLEASE INSTALL IT HERE:
 
 
 # How much of my GPU is being used?
