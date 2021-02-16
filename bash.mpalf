@@ -1,0 +1,7 @@
+$$Define the bash script(s)$$
+
+bash=none
+$$import bash scripts$$
+[bash.mPALF(caseSens)   
+    caseSens.cuda(tensor)
+    caseSens.torch_or_cuda(tensor_or_cpu)]
