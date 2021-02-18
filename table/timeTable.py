@@ -1,6 +1,7 @@
 import time
 import table
 import types
+from time import timetable
 
 timetable = ( # do not edit this timetable unless you'd like to add delays between messages or to prevent GPU throttling
     time = 0,
