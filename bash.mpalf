@@ -1,6 +1,6 @@
 $$Define the bash script(s)$$
 
-bash=none
+bash=Sense.Bash(), Alpha/Bash, *
 $$import bash scripts$$
 [bash.mPALF(caseSens)   
     caseSens.cuda(tensor)
