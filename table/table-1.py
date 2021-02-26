@@ -9,7 +9,7 @@ import minecraftutils
 
 table = ( # if nothing is defined in the table, the AI might crash
     f"""
-    numerical{mc.chat.global("") t }
+    numerical{mc.chat.global("") + t }
     """
 )
 
