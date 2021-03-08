@@ -7,7 +7,7 @@ from minecraftutils import mc
 
 import pycheck as check
 import meta
-from meta import model, match
+from meta import Model, Match, Classify
 
 dataset = ( # create basic models
     meta.mark(1), model, check.model(1)
@@ -38,3 +38,12 @@ class UserMetaProcessing(MetaProcessing):
     def metamatch(meta, torch, ms):
         metamatch1_model = meta.model(dataset)
         
+        for model in meta:
+            enumerate(model, dep, ** 2{device.set}, torch.cuda)
+
+        check.model(metaprocessing)
+        await check.meta(1, value=meta)    
+
+check.input(metaprocessing, metamatch).combine{config=None}
+if input == None:
+    exit(1)        
