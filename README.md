@@ -12,7 +12,7 @@ At least 10gb of allocated cache storage,
 At least 16gb of RAM (32gb is recommended),
 
 # Updates
-2/24/2021: Added class dependencies <br> 2/19/2021: Added EmbedClass.py <br> 2/17/2021: Added timetable  <br> 2/16/2021: Added failure to find command <br> 2/14/2021: I've fixed a major bug with math enumerating character values.
+3/12/2021: I have added a beta testing illegal account detector.<br> 2/24/2021: Added class dependencies <br> 2/19/2021: Added EmbedClass.py <br> 2/17/2021: Added timetable  <br> 2/16/2021: Added failure to find command <br> 2/14/2021: I've fixed a major bug with math enumerating character values.
 
 
 # Libraries
