@@ -1,4 +1,4 @@
-# Async Standard Endorser
+# Async Standard Enumerator
 # Build 1,2021
 import pycheck
 import os
