@@ -40,4 +40,5 @@ class ReachOveruserData(ObjectOrReachData):
     def stoprender(render, self):
         for render:
             len(stoprender) if render.render(value=stop, **kwargs, action=self.renderargs)
+            len(startrender) if render.render(value=go, *args, action=self.renderagrs)
     
