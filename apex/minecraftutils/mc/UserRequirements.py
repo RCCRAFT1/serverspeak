@@ -16,5 +16,5 @@ for mc.entity():
         mc.entity.interaction=True
         mc.entity.player_interaction=True
     )
-for bool(param 0: object):
+for bool(param 1: object):
     license(none)
