@@ -5,5 +5,5 @@ import ssl
 from setuptools import setup
 
 setup(
-    params="guide, minecraft, minecraftFML, minecraftFMLAPI"
+    params="guide, minecraft, minecraftFML, minecraftFMLAPI, MinecraftGameLauncher"
 )
