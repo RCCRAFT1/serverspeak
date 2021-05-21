@@ -9,3 +9,7 @@ def commands(minecraft):
             pass 
     try mc.chat.global(content='')
         open(mc.commands) sorted=False
+def openUser(minecraft):
+    user == mc.Player
+    reguser.define(0)
+    try function(1)
