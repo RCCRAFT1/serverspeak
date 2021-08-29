@@ -13,4 +13,7 @@ class updateBoolean(booleanObject):
 
             await selfUpdater(trackUpdateTransaction, device)
             await selfUpdater(getTransactionDate(*), wildcard == True)
+            await user.keyBooleanFailure()
+        for mc.keyTransaction()
+        
         
