@@ -1,4 +1,4 @@
-# this project has been discontinued. Please follow with our other projects here: https://discord.gg/5GxGvnsy3y
+# this project has been revived! Please wait for more updates to come around. Beta updates are still online.
 
 
 
