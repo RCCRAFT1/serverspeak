@@ -1,8 +1,3 @@
-# this project has been revived! Please wait for more updates to come around. Beta updates are still online.
-
-
-
-
 # serverspeak
 Make your server talk back!
 
@@ -10,9 +5,7 @@ This AI will interface with your minecraft server as a plugin.
 Main program is built in python, kind of like a virtual assistant.
 NOTE: This program is untrained and needs to be trained before use.
 
-
-
-
+# This program now has a discord server! Join here! https://discord.gg/5GxGvnsy3y
 
 System Requirements:
 A NVIDIA GPU w/ CUDA (GTX 1070 or higher is recommended),
