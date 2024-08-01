@@ -30,8 +30,11 @@ When the program is in benchmark mode, it will use at least 80% of your gpu.
 
 # How to Run the Program
 When the plugin is installed, run the main py files, and it should start the webserver/idle process. If new hardware is detected, it will run Benchmark mode.
+
+![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/7fd208ab-4597-4f4d-b508-5a77dba2c086)
 # How to run on linux
 COMING SOON
 
 Support our development here!
 I spend a lot of time making things like this, so donate if you can! (LINK COMING SOON)
+
